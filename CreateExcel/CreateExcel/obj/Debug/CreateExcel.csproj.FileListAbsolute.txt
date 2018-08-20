@@ -1,0 +1,6 @@
+C:\Data\BBA\trunk\SolutionVS\CreateExcel\CreateExcel\bin\Debug\CreateExcel.exe.config
+C:\Data\BBA\trunk\SolutionVS\CreateExcel\CreateExcel\bin\Debug\CreateExcel.exe
+C:\Data\BBA\trunk\SolutionVS\CreateExcel\CreateExcel\bin\Debug\CreateExcel.pdb
+C:\Data\BBA\trunk\SolutionVS\CreateExcel\CreateExcel\obj\Debug\CreateExcel.csprojResolveAssemblyReference.cache
+C:\Data\BBA\trunk\SolutionVS\CreateExcel\CreateExcel\obj\Debug\CreateExcel.exe
+C:\Data\BBA\trunk\SolutionVS\CreateExcel\CreateExcel\obj\Debug\CreateExcel.pdb
